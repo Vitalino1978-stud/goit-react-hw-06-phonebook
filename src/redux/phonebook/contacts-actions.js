@@ -20,7 +20,7 @@ const deleteContact = createAction('contacts/delete');
 // const deleteContact = contactId => ({
 //   type: types.delete,
 //   payload: contactId,
-// });
+// });.
 
 const filterContact = createAction('contacts/changeFilter');
 
